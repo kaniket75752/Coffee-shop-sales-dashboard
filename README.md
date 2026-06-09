@@ -3,7 +3,7 @@ An interactive Excel dashboard built using Pivot Tables, Pivot Charts, KPI Cards
 
 ## Dataset
 - <a href="https://github.com/kaniket75752/Coffee-shop-sales-dashboard/blob/main/Coffee%20Shop%20Sales%20Data%20(1)%20(1).xlsx"> Dataset</a>
-##Dashboard
+## Dashboard
 - <a href="https://github.com/kaniket75752/Coffee-shop-sales-dashboard/blob/main/Screenshot%202026-06-09%20231649.png">Dashboard </a>
 
 Key Insights:
