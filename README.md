@@ -2,7 +2,8 @@
 An interactive Excel dashboard built using Pivot Tables, Pivot Charts, KPI Cards, and Slicers to analyze revenue, profit, sales trends, product performance, and city-wise performance. The dashboard provides actionable business insights through dynamic visualizations and data-driven reporting.
 
 ## Dataset
-- <a
+- <a href="https://github.com/kaniket75752/Coffee-shop-sales-dashboard/blob/main/Coffee%20Shop%20Sales%20Data%20(1)%20(1).xlsx"></a> Dataset
+- <a href="https://github.com/kaniket75752/Coffee-shop-sales-dashboard/blob/main/Screenshot%202026-06-09%20231649.png"></a> Dashboard
 
 Key Insights:
 Chicago generated the highest revenue among all cities.
